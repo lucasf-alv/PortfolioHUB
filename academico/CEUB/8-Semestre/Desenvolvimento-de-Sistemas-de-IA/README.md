@@ -1,0 +1,8 @@
+# Desenvolvimento-de-Sistemas-de-IA
+
+## Sobre a disciplina
+
+Disciplina cursada no curso de Engenharia de Software do CEUB.
+
+## Conteúdos
+
